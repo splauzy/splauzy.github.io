@@ -1,0 +1,20 @@
+.albums a{
+    color: gray;
+}
+
+.albums .card:hover{
+    outline: 2px solid #772d8b;
+}
+
+.list-group-item {
+    margin: 2px;
+}
+
+.list-group-item:hover{
+    outline: 4px solid #772d8b;
+    cursor: pointer;
+    z-index: 1;
+}
+
+
+

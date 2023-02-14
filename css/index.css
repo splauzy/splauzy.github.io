@@ -1,0 +1,11 @@
+.albums a{
+    color: gray;
+}
+
+.albums .card:hover{
+    outline: 3px solid #2274a5;
+}
+
+.card{
+    flex-wrap: wrap;
+}

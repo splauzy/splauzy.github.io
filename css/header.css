@@ -1,0 +1,38 @@
+body {
+    background-color: #d3f6db;
+}
+
+input[type="search"]{
+    border: none;
+    margin-top: 21px;
+}
+
+header .nav-link{
+    margin-top: 21px;
+    color: rgb(0, 0, 0);
+}
+
+header .logo-text{
+    margin-top: 21px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header .nav-link:hover, header .nav-link:focus {
+    color: #a43fc0;
+}
+
+header .nav-link:active {
+    color: #a43fc0;
+}
+
+.plus-badge{
+    margin-top: 21px;
+    font-size: 10px;
+    padding: 5px 10px;
+    background: linear-gradient(101.67deg,#48cce0 7.24%,#505add 34.12%,#be40c0 62.93%,#fba82b 92.22%);
+}
+
+header .profil-img {
+    margin-top: 21px;
+}
